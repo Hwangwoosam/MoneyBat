@@ -1,4 +1,4 @@
-package com.example.moneybank.library.format;
+package com.example.moneybank.library.format.format;
 
 import java.time.DayOfWeek;
 import java.time.format.TextStyle;

@@ -1,4 +1,4 @@
-package com.example.moneybank.library.format;
+package com.example.moneybank.library.format.format;
 
 import com.example.moneybank.library.CalendarDay;
 

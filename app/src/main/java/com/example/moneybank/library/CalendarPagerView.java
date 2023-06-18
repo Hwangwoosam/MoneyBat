@@ -12,8 +12,8 @@ import android.view.accessibility.AccessibilityNodeInfo;
 
 import androidx.annotation.NonNull;
 
-import com.example.moneybank.library.format.DayFormatter;
-import com.example.moneybank.library.format.WeekDayFormatter;
+import com.example.moneybank.library.format.format.DayFormatter;
+import com.example.moneybank.library.format.format.WeekDayFormatter;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

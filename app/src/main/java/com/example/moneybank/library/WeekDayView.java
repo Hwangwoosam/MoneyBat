@@ -8,7 +8,7 @@ import android.view.Gravity;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatTextView;
 
-import com.example.moneybank.library.format.WeekDayFormatter;
+import com.example.moneybank.library.format.format.WeekDayFormatter;
 
 import java.time.DayOfWeek;
 

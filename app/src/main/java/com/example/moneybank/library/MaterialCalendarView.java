@@ -29,11 +29,11 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewpager.widget.ViewPager;
 
-import com.example.moneybank.library.format.ArrayWeekDayFormatter;
-import com.example.moneybank.library.format.DayFormatter;
-import com.example.moneybank.library.format.MonthArrayTitleFormatter;
-import com.example.moneybank.library.format.TitleFormatter;
-import com.example.moneybank.library.format.WeekDayFormatter;
+import com.example.moneybank.library.format.format.ArrayWeekDayFormatter;
+import com.example.moneybank.library.format.format.DayFormatter;
+import com.example.moneybank.library.format.format.MonthArrayTitleFormatter;
+import com.example.moneybank.library.format.format.TitleFormatter;
+import com.example.moneybank.library.format.format.WeekDayFormatter;
 import com.example.moneybank.R;
 
 import java.lang.annotation.Retention;

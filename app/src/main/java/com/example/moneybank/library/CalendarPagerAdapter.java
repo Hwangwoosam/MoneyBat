@@ -7,9 +7,9 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewpager.widget.PagerAdapter;
 
-import com.example.moneybank.library.format.DayFormatter;
-import com.example.moneybank.library.format.TitleFormatter;
-import com.example.moneybank.library.format.WeekDayFormatter;
+import com.example.moneybank.library.format.format.DayFormatter;
+import com.example.moneybank.library.format.format.TitleFormatter;
+import com.example.moneybank.library.format.format.WeekDayFormatter;
 
 import java.time.LocalDate;
 import java.util.ArrayDeque;

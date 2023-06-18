@@ -25,7 +25,7 @@ import android.view.View;
 import androidx.annotation.NonNull;
 import androidx.appcompat.widget.AppCompatCheckedTextView;
 
-import com.example.moneybank.library.format.DayFormatter;
+import com.example.moneybank.library.format.format.DayFormatter;
 
 import java.util.List;
 

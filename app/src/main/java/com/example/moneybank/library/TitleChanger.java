@@ -12,7 +12,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.example.moneybank.library.format.TitleFormatter;
+import com.example.moneybank.library.format.format.TitleFormatter;
 
 class TitleChanger {
 
